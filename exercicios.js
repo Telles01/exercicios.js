@@ -12,4 +12,6 @@ var nomeCompleto = `${nome}    ${sobrenome}`;
 
 console.log(nomeCompleto);
 
-var frase = 
+var frase = `It's time`;
+
+console.log(typeof nome);
